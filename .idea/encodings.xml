@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1252">
-    <file url="file://$PROJECT_DIR$/day31-flashcard/data/words.csv" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/day31-flashcard/data/words_to_learn.csv" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/day31-flashcard/main.py" charset="windows-1252" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/day-31-flashcard/data/words.csv" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/day-31-flashcard/data/words_to_learn.csv" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/day-31-flashcard/main.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/day-45-web-scraping/website.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/day-48-selenium/main.py" charset="windows-1252" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>

@@ -1,1 +1,0 @@
-name=["shayan","maziar","reyhane"]

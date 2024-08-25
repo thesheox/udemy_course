@@ -1,0 +1,16 @@
+/*h2{*/
+/*    color: green;*/
+/*}*/
+
+
+#green-color{
+    color: green;
+}
+
+.red-color{
+    color: red;
+}
+
+a[href="google.com"]{
+    color: #13ff00;
+}
